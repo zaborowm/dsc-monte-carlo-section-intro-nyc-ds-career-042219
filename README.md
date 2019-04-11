@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 23 and why they'll be important to you as a data scientist.
+This lesson summarizes the topics we'll be covering in this section and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
@@ -37,5 +37,5 @@ We finish up the section by introducing the idea of monte carlo simulations for 
 
 ## Summary
 
-In this section we continue to introduce foundational statistical concepts that will be critical when working with various machube learning models in modules 3 and 4.
+In this section we continue to introduce foundational statistical concepts that will be critical when working with various machine learning models in future lessons.
 
